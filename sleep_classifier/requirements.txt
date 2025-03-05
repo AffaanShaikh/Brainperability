@@ -1,0 +1,5 @@
+mne
+numpy
+ipywidgets
+matplotlib
+scikit-learn
