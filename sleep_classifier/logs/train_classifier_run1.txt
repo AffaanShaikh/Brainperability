@@ -1,0 +1,238 @@
+(.venv) PS X:\Brainalytics> python X:\Brainalytics\sleep_classifier\model_trainer\train_classifier.py
+X:\Brainalytics\sleep_classifier\model_trainer\train_classifier.py:41: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raw_edf.set_annotations(annotation_edf, emit_warning=True)#False)
+Used Annotations descriptions: [np.str_('Sleep stage 1'), np.str_('Sleep stage 2'), np.str_('Sleep stage 3'), np.str_('Sleep stage R'), np.str_('Sleep stage W')]
+Not setting metadata      
+2531 matching events found
+No baseline correction applied
+0 projection items activated
+Using data from preloaded Raw for 2531 events and 3000 original time points ...
+0 bad epochs dropped
+X:\Brainalytics\sleep_classifier\model_trainer\train_classifier.py:41: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raw_edf.set_annotations(annotation_edf, emit_warning=True)#False)
+Used Annotations descriptions: [np.str_('Sleep stage 1'), np.str_('Sleep stage 2'), np.str_('Sleep stage 3'), np.str_('Sleep stage R'), np.str_('Sleep stage W')]
+Not setting metadata
+2793 matching events found
+No baseline correction applied
+0 projection items activated
+Using data from preloaded Raw for 2793 events and 3000 original time points ...
+0 bad epochs dropped
+X:\Brainalytics\sleep_classifier\model_trainer\train_classifier.py:41: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raw_edf.set_annotations(annotation_edf, emit_warning=True)#False)
+Used Annotations descriptions: [np.str_('Sleep stage 1'), np.str_('Sleep stage 2'), np.str_('Sleep stage 3'), np.str_('Sleep stage R'), np.str_('Sleep stage W')]
+Not setting metadata
+2782 matching events found
+No baseline correction applied
+0 projection items activated
+Using data from preloaded Raw for 2782 events and 3000 original time points ...
+0 bad epochs dropped
+X:\Brainalytics\sleep_classifier\model_trainer\train_classifier.py:41: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raw_edf.set_annotations(annotation_edf, emit_warning=True)#False)
+Used Annotations descriptions: [np.str_('Sleep stage 1'), np.str_('Sleep stage 2'), np.str_('Sleep stage 3'), np.str_('Sleep stage R'), np.str_('Sleep stage W')]
+Not setting metadata
+2819 matching events found
+No baseline correction applied
+0 projection items activated
+Using data from preloaded Raw for 2819 events and 3000 original time points ...
+0 bad epochs dropped
+X:\Brainalytics\sleep_classifier\model_trainer\train_classifier.py:41: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raw_edf.set_annotations(annotation_edf, emit_warning=True)#False)
+Used Annotations descriptions: [np.str_('Sleep stage 1'), np.str_('Sleep stage 2'), np.str_('Sleep stage 3'), np.str_('Sleep stage R'), np.str_('Sleep stage W')]
+Not setting metadata
+2569 matching events found
+No baseline correction applied
+0 projection items activated
+Using data from preloaded Raw for 2569 events and 3000 original time points ...
+0 bad epochs dropped
+X:\Brainalytics\sleep_classifier\model_trainer\train_classifier.py:41: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raw_edf.set_annotations(annotation_edf, emit_warning=True)#False)
+Used Annotations descriptions: [np.str_('Sleep stage 1'), np.str_('Sleep stage 2'), np.str_('Sleep stage 3'), np.str_('Sleep stage R'), np.str_('Sleep stage W')]
+Not setting metadata
+2703 matching events found
+No baseline correction applied
+0 projection items activated
+Using data from preloaded Raw for 2703 events and 3000 original time points ...
+0 bad epochs dropped
+X:\Brainalytics\sleep_classifier\model_trainer\train_classifier.py:41: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raw_edf.set_annotations(annotation_edf, emit_warning=True)#False)
+Used Annotations descriptions: [np.str_('Sleep stage 1'), np.str_('Sleep stage 2'), np.str_('Sleep stage 3'), np.str_('Sleep stage R'), np.str_('Sleep stage W')]
+Not setting metadata
+2669 matching events found
+No baseline correction applied
+0 projection items activated
+Using data from preloaded Raw for 2669 events and 3000 original time points ...
+0 bad epochs dropped
+X:\Brainalytics\sleep_classifier\model_trainer\train_classifier.py:41: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raw_edf.set_annotations(annotation_edf, emit_warning=True)#False)
+Used Annotations descriptions: [np.str_('Sleep stage 1'), np.str_('Sleep stage 2'), np.str_('Sleep stage 3'), np.str_('Sleep stage R'), np.str_('Sleep stage W')]
+Not setting metadata
+2728 matching events found
+No baseline correction applied
+0 projection items activated
+Using data from preloaded Raw for 2728 events and 3000 original time points ...
+0 bad epochs dropped
+X:\Brainalytics\sleep_classifier\model_trainer\train_classifier.py:41: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raw_edf.set_annotations(annotation_edf, emit_warning=True)#False)
+Used Annotations descriptions: [np.str_('Sleep stage 1'), np.str_('Sleep stage 2'), np.str_('Sleep stage 3'), np.str_('Sleep stage R'), np.str_('Sleep stage W')]
+Not setting metadata
+2604 matching events found
+No baseline correction applied
+0 projection items activated
+Using data from preloaded Raw for 2604 events and 3000 original time points ...
+0 bad epochs dropped
+X:\Brainalytics\sleep_classifier\model_trainer\train_classifier.py:41: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raw_edf.set_annotations(annotation_edf, emit_warning=True)#False)
+Used Annotations descriptions: [np.str_('Sleep stage 1'), np.str_('Sleep stage 2'), np.str_('Sleep stage 3'), np.str_('Sleep stage R'), np.str_('Sleep stage W')]
+Not setting metadata
+2638 matching events found
+No baseline correction applied
+0 projection items activated
+Using data from preloaded Raw for 2638 events and 3000 original time points ...
+0 bad epochs dropped
+    Using multitaper spectrum estimation with 7 DPSS windows
+    Using multitaper spectrum estimation with 7 DPSS windows
+    Using multitaper spectrum estimation with 7 DPSS windows
+    Using multitaper spectrum estimation with 7 DPSS windows
+    Using multitaper spectrum estimation with 7 DPSS windows
+    Using multitaper spectrum estimation with 7 DPSS windows
+    Using multitaper spectrum estimation with 7 DPSS windows
+    Using multitaper spectrum estimation with 7 DPSS windows
+    Using multitaper spectrum estimation with 7 DPSS windows
+    Using multitaper spectrum estimation with 7 DPSS windows
+Fitting 9 folds for each of 15 candidates, totalling 135 fits
+[CV] END class_weight=None, max_depth=20, max_features=log2, min_samples_split=2, n_estimators=100; total time=   8.2s
+[CV] END class_weight=None, max_depth=20, max_features=log2, min_samples_split=2, n_estimators=100; total time=   8.3s
+[CV] END class_weight=None, max_depth=20, max_features=log2, min_samples_split=2, n_estimators=100; total time=   8.5s
+[CV] END class_weight=None, max_depth=20, max_features=log2, min_samples_split=2, n_estimators=100; total time=   8.7s
+[CV] END class_weight=None, max_depth=20, max_features=log2, min_samples_split=2, n_estimators=100; total time=   8.7s
+[CV] END class_weight=None, max_depth=20, max_features=log2, min_samples_split=2, n_estimators=100; total time=   8.8s
+[CV] END class_weight=None, max_depth=20, max_features=log2, min_samples_split=2, n_estimators=100; total time=   8.9s
+[CV] END class_weight=None, max_depth=20, max_features=log2, min_samples_split=2, n_estimators=100; total time=   9.1s
+[CV] END class_weight=None, max_depth=20, max_features=log2, min_samples_split=2, n_estimators=100; total time=   9.6s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=200; total time=  14.5s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=200; total time=  15.2s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=200; total time=  15.1s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=200; total time=  15.1s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=200; total time=  15.3s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=200; total time=  15.3s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=200; total time=  16.0s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=200; total time=  13.6s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=200; total time=  12.8s
+[CV] END class_weight=None, max_depth=None, max_features=log2, min_samples_split=2, n_estimators=200; total time=  16.1s
+[CV] END class_weight=None, max_depth=None, max_features=log2, min_samples_split=2, n_estimators=200; total time=  16.2s
+[CV] END class_weight=None, max_depth=None, max_features=log2, min_samples_split=2, n_estimators=200; total time=  16.2s
+[CV] END class_weight=None, max_depth=None, max_features=log2, min_samples_split=2, n_estimators=200; total time=  16.7s
+[CV] END class_weight=None, max_depth=None, max_features=log2, min_samples_split=2, n_estimators=200; total time=  16.5s
+[CV] END class_weight=None, max_depth=None, max_features=log2, min_samples_split=2, n_estimators=200; total time=  17.1s
+[CV] END class_weight=None, max_depth=None, max_features=log2, min_samples_split=2, n_estimators=200; total time=  16.3s
+[CV] END class_weight=None, max_depth=None, max_features=log2, min_samples_split=2, n_estimators=200; total time=  16.5s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  13.9s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  14.0s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  14.0s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  14.0s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  14.0s
+[CV] END class_weight=None, max_depth=None, max_features=log2, min_samples_split=2, n_estimators=200; total time=  16.3s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  14.2s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  14.2s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  14.3s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  14.3s
+[CV] END class_weight=balanced, max_depth=30, max_features=sqrt, min_samples_split=2, n_estimators=300; total time=  22.8s
+[CV] END class_weight=balanced, max_depth=30, max_features=sqrt, min_samples_split=2, n_estimators=300; total time=  23.1s
+[CV] END class_weight=balanced, max_depth=30, max_features=sqrt, min_samples_split=2, n_estimators=300; total time=  23.0s
+[CV] END class_weight=balanced, max_depth=30, max_features=sqrt, min_samples_split=2, n_estimators=300; total time=  22.9s
+[CV] END class_weight=balanced, max_depth=30, max_features=sqrt, min_samples_split=2, n_estimators=300; total time=  23.5s
+[CV] END class_weight=balanced, max_depth=None, max_features=log2, min_samples_split=5, n_estimators=100; total time=   8.1s
+[CV] END class_weight=balanced, max_depth=None, max_features=log2, min_samples_split=5, n_estimators=100; total time=   8.4s
+[CV] END class_weight=balanced, max_depth=None, max_features=log2, min_samples_split=5, n_estimators=100; total time=   8.6s
+[CV] END class_weight=balanced, max_depth=30, max_features=sqrt, min_samples_split=2, n_estimators=300; total time=  25.0s
+[CV] END class_weight=balanced, max_depth=30, max_features=sqrt, min_samples_split=2, n_estimators=300; total time=  24.5s
+[CV] END class_weight=balanced, max_depth=30, max_features=sqrt, min_samples_split=2, n_estimators=300; total time=  24.6s
+[CV] END class_weight=balanced, max_depth=None, max_features=log2, min_samples_split=5, n_estimators=100; total time=   8.5s
+[CV] END class_weight=balanced, max_depth=None, max_features=log2, min_samples_split=5, n_estimators=100; total time=   7.9s
+[CV] END class_weight=balanced, max_depth=None, max_features=log2, min_samples_split=5, n_estimators=100; total time=   8.2s
+[CV] END class_weight=balanced, max_depth=None, max_features=log2, min_samples_split=5, n_estimators=100; total time=   8.2s
+[CV] END class_weight=balanced, max_depth=None, max_features=log2, min_samples_split=5, n_estimators=100; total time=   7.8s
+[CV] END class_weight=balanced, max_depth=None, max_features=log2, min_samples_split=5, n_estimators=100; total time=   7.8s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.6s
+[CV] END class_weight=balanced, max_depth=30, max_features=sqrt, min_samples_split=2, n_estimators=300; total time=  24.4s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.4s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.5s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.8s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.5s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.6s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.4s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.5s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.7s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=2, n_estimators=300; total time=  24.1s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=2, n_estimators=300; total time=  24.3s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=2, n_estimators=300; total time=  23.5s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=2, n_estimators=300; total time=  24.3s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=2, n_estimators=300; total time=  23.6s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=2, n_estimators=300; total time=  24.4s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=2, n_estimators=300; total time=  23.4s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=2, n_estimators=300; total time=  23.5s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=5, n_estimators=100; total time=   7.4s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=5, n_estimators=100; total time=   7.6s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=5, n_estimators=100; total time=   7.5s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=5, n_estimators=100; total time=   7.5s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=5, n_estimators=100; total time=   7.3s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=5, n_estimators=100; total time=   7.3s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=5, n_estimators=100; total time=   7.7s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=5, n_estimators=100; total time=   7.5s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=100; total time=   6.6s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=5, n_estimators=100; total time=   7.4s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=100; total time=   6.6s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=100; total time=   6.6s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=100; total time=   6.7s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=100; total time=   6.7s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=100; total time=   6.8s
+[CV] END class_weight=balanced, max_depth=30, max_features=log2, min_samples_split=2, n_estimators=300; total time=  22.6s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=100; total time=   6.7s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=100; total time=   6.7s
+[CV] END class_weight=balanced, max_depth=10, max_features=sqrt, min_samples_split=2, n_estimators=100; total time=   6.5s
+[CV] END class_weight=balanced, max_depth=20, max_features=log2, min_samples_split=10, n_estimators=100; total time=   7.3s
+[CV] END class_weight=balanced, max_depth=20, max_features=log2, min_samples_split=10, n_estimators=100; total time=   7.5s
+[CV] END class_weight=balanced, max_depth=20, max_features=log2, min_samples_split=10, n_estimators=100; total time=   7.3s
+[CV] END class_weight=balanced, max_depth=20, max_features=log2, min_samples_split=10, n_estimators=100; total time=   7.4s
+[CV] END class_weight=balanced, max_depth=20, max_features=log2, min_samples_split=10, n_estimators=100; total time=   7.3s
+[CV] END class_weight=balanced, max_depth=20, max_features=log2, min_samples_split=10, n_estimators=100; total time=   7.3s
+[CV] END class_weight=balanced, max_depth=20, max_features=log2, min_samples_split=10, n_estimators=100; total time=   7.6s
+[CV] END class_weight=balanced, max_depth=20, max_features=log2, min_samples_split=10, n_estimators=100; total time=   7.4s
+[CV] END class_weight=balanced, max_depth=20, max_features=log2, min_samples_split=10, n_estimators=100; total time=   7.1s
+[CV] END class_weight=None, max_depth=None, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.1s
+[CV] END class_weight=None, max_depth=None, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.2s
+[CV] END class_weight=None, max_depth=None, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.3s
+[CV] END class_weight=None, max_depth=None, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.5s
+[CV] END class_weight=None, max_depth=None, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.4s
+[CV] END class_weight=None, max_depth=None, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.7s
+[CV] END class_weight=None, max_depth=None, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.3s
+[CV] END class_weight=None, max_depth=None, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.4s
+[CV] END class_weight=None, max_depth=None, max_features=sqrt, min_samples_split=10, n_estimators=100; total time=   8.2s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=5, n_estimators=200; total time=  14.5s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=5, n_estimators=200; total time=  14.4s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=5, n_estimators=200; total time=  14.2s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=5, n_estimators=200; total time=  14.4s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=5, n_estimators=200; total time=  14.5s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=5, n_estimators=200; total time=  14.6s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=5, n_estimators=200; total time=  14.3s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=5, n_estimators=200; total time=  14.3s
+[CV] END class_weight=None, max_depth=10, max_features=sqrt, min_samples_split=5, n_estimators=200; total time=  14.2s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  16.5s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  16.8s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  16.7s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  17.0s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  17.0s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  17.5s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  16.8s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  16.8s
+[CV] END class_weight=None, max_depth=10, max_features=log2, min_samples_split=2, n_estimators=200; total time=  14.3s
+[CV] END class_weight=None, max_depth=10, max_features=log2, min_samples_split=2, n_estimators=200; total time=  14.2s
+[CV] END class_weight=None, max_depth=10, max_features=log2, min_samples_split=2, n_estimators=200; total time=  14.3s
+[CV] END class_weight=None, max_depth=30, max_features=sqrt, min_samples_split=10, n_estimators=200; total time=  16.5s
+[CV] END class_weight=None, max_depth=10, max_features=log2, min_samples_split=2, n_estimators=200; total time=  14.4s
+[CV] END class_weight=None, max_depth=10, max_features=log2, min_samples_split=2, n_estimators=200; total time=  14.4s
+[CV] END class_weight=None, max_depth=10, max_features=log2, min_samples_split=2, n_estimators=200; total time=  14.2s
+[CV] END class_weight=None, max_depth=10, max_features=log2, min_samples_split=2, n_estimators=200; total time=  12.7s
+[CV] END class_weight=None, max_depth=10, max_features=log2, min_samples_split=2, n_estimators=200; total time=  12.4s
+[CV] END class_weight=None, max_depth=10, max_features=log2, min_samples_split=2, n_estimators=200; total time=  12.2s
+Test Accuracy: 0.9196360879454132

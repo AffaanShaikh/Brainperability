@@ -24,18 +24,18 @@ __pycache__/
 *.fdt  # EEGLAB raw data format
 *.gdf  # General EEG format
 
-# Ignore model files and checkpoints
-models/
-checkpoints/
-*.h5
-*.hdf5
-*.tflite
-*.pth
-*.pt
-*.onnx
-*.joblib
-*.pkl
-*.pb
+# # Ignore model files and checkpoints
+# models/
+# checkpoints/
+# *.h5
+# *.hdf5
+# *.tflite
+# *.pth
+# *.pt
+# *.onnx
+# *.joblib
+# *.pkl
+# *.pb
 
 # Ignore logs and outputs
 *.log
